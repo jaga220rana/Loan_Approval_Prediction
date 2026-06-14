@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28924757/README.md)
 # 🏦 Loan Approval Prediction
 
 A machine learning project that predicts loan approval outcomes using classification algorithms, built on the [Kaggle Loan Prediction dataset](https://www.kaggle.com/ninzaami/loan-predication/home).
